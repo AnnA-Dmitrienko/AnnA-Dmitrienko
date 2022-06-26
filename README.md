@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnnA-Dmitrienko
+- 👋 Hi, I’m @AnnA-Dmitrienko, I have a B.Sc.Pharm degree and an MBA 
 - 👀 I’m interested in using technology to create magic! 
 - 🌱 I’m currently learning programming at Seneca College, diving into C++
 - 💞️ I’m looking to collaborate on creative projects that make our world a better place
