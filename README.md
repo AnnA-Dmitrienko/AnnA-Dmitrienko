@@ -9,7 +9,12 @@ AnnA-Dmitrienko/AnnA-Dmitrienko is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
+<a href="https://github.com/AnnA-Dmitrienko">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnA-Dmitrienko&langs_count=10&layout=compact" />
+  
+</a>
+<a href="https://github.com/AnnA-Dmitrienko">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnnA-Dmitrienko&count_private=true&show_icons=true&theme=transparent" />
+</a>
 
 
-
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnA-Dmitrienko&count_private=true&show_icons=true&theme=transparent)
