@@ -10,8 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-![Anna's GitHub stats](https://github-readme-stats-one-flame-97.vercel.app/api?username=AnnA-Dmitrienko&count_private=true&show_icons=true&theme=transparent)]
-
-![Top Languages](https://github-readme-stats-one-flame-97.vercel.app/api/top-langs/?username=AnnA-Dmitrienko&langs_count=10&layout=compact)
-
+<a href="https://github.com/AnnA-Dmitrienko">
+ <img align="center" src="https://github-readme-stats-one-flame-97.vercel.app/api/top-langs/?username=AnnA-Dmitrienko&langs_count=10&layout=compact&random=random" />
+  
+</a>
+<a href="https://github.com/AnnA-Dmitrienko">
+ <img align="center" src="https://github-readme-stats-one-flame-97.vercel.app/api?username=AnnA-Dmitrienko&count_private=true&show_icons=true&theme=transparent&random=random" />
+</a>
