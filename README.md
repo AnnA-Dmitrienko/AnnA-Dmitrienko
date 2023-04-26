@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnnA-Dmitrienko, I am a computer programming graduate from Seneca College, Canada
 - 👀 I’m interested in using technology to create magic! 
-- 🌱 I’m currently completing my last year of studies 
 - 💞️ I’m looking to collaborate on creative projects that make our world a better place
 - 📫 You can reach me at https://www.linkedin.com/in/anna-dm/
 
